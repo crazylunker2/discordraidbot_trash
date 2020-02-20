@@ -1,0 +1,2 @@
+# discordraidbot_trash
+myfirstbot
